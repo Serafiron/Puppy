@@ -1,0 +1,5 @@
+- Added playermovement
+- Added a puppy that follows player
+(31.8.)
+- Added a water that drops droples, which player can collect (not measured or tracked yet)
+- Added a shy ghost which is afraid of your dog
